@@ -1,1 +1,5 @@
 https://docs.microsoft.com/en-us/windows-server/manage/windows-admin-center/azure/
+
+https://docs.microsoft.com/en-us/azure/azure-arc/overview
+
+https://docs.microsoft.com/en-us/azure/azure-arc/servers/overview
