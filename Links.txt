@@ -1,3 +1,11 @@
+https://docs.microsoft.com/en-us/hybrid/
+
+https://docs.microsoft.com/en-us/hybrid/app-solutions/
+
+https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-hybrid-services/
+
+https://docs.microsoft.com/en-us/learn/modules/implement-hybrid-network-infrastructure/
+
 https://docs.microsoft.com/en-us/windows-server/manage/windows-admin-center/azure/
 
 https://docs.microsoft.com/en-us/azure/azure-arc/overview
