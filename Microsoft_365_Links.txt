@@ -10,6 +10,4 @@ https://docs.microsoft.com/en-us/learn/modules/plan-your-supporting-infrastructu
 
 https://docs.microsoft.com/en-us/learn/modules/plan-your-migration-to-microsoft-365/
 -----------------
-
-
 https://docs.microsoft.com/en-us/microsoft-365/enterprise/hybrid-solutions?view=o365-worldwide
