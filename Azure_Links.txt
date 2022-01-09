@@ -9,6 +9,8 @@ https://docs.microsoft.com/en-us/windows-server/manage/windows-admin-center/azur
 
 https://docs.microsoft.com/en-us/learn/modules/implement-hybrid-file-server-infrastructure/
 
+https://docs.microsoft.com/en-us/users/windosnz/collections/8wqqimkprrez2q
+
 ----------------
 
 https://docs.microsoft.com/en-us/hybrid/
