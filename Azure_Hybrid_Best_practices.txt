@@ -1,0 +1,15 @@
+https://docs.microsoft.com/en-us/azure/architecture/hybrid/azure-automation-hybrid
+
+https://docs.microsoft.com/en-us/azure/architecture/hybrid/arc-hybrid-kubernetes
+
+https://docs.microsoft.com/en-us/azure/architecture/hybrid/hybrid-containers
+
+https://docs.microsoft.com/en-us/azure/architecture/hybrid/azure-file-share
+
+https://docs.microsoft.com/en-us/azure/architecture/hybrid/azure-stack-backup
+
+https://docs.microsoft.com/en-us/azure/architecture/hybrid/hybrid-server-os-mgmt
+
+https://docs.microsoft.com/en-us/azure/architecture/hybrid/hybrid-perf-monitoring
+
+https://docs.microsoft.com/en-us/azure/architecture/hybrid/azure-stack-vm-dr
