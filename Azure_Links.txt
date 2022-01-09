@@ -13,6 +13,8 @@ https://docs.microsoft.com/en-us/users/windosnz/collections/8wqqimkprrez2q
 
 ----------------
 
+https://docs.microsoft.com/en-us/azure/architecture/browse/?azure_categories=hybrid
+
 https://docs.microsoft.com/en-us/hybrid/
 
 https://docs.microsoft.com/en-us/hybrid/app-solutions/
