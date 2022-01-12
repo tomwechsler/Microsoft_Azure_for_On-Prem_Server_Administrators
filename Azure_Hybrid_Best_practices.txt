@@ -13,3 +13,9 @@ https://docs.microsoft.com/en-us/azure/architecture/hybrid/hybrid-server-os-mgmt
 https://docs.microsoft.com/en-us/azure/architecture/hybrid/hybrid-perf-monitoring
 
 https://docs.microsoft.com/en-us/azure/architecture/hybrid/azure-stack-vm-dr
+
+https://docs.microsoft.com/en-us/azure/architecture/hybrid/azure-files-private
+
+https://docs.microsoft.com/en-us/azure/architecture/example-scenario/hybrid/azure-files-on-premises-authentication
+
+https://docs.microsoft.com/en-us/azure/architecture/hybrid/hybrid-file-services
