@@ -1,0 +1,15 @@
+Microsoft Learn
+
+------------------
+
+https://docs.microsoft.com/en-us/learn/modules/perform-windows-server-secure-administration/
+
+https://docs.microsoft.com/en-us/learn/modules/describe-windows-server-administration-tools/
+
+https://docs.microsoft.com/en-us/learn/modules/perform-post-installation-configuration-of-windows-server/
+
+https://docs.microsoft.com/en-us/learn/modules/deploy-windows-server/
+
+https://docs.microsoft.com/en-us/learn/modules/select-windows-server-editions-servicing-options-activation/
+
+------------------
