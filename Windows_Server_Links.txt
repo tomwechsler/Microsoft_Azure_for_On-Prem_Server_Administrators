@@ -13,3 +13,7 @@ https://docs.microsoft.com/en-us/learn/modules/deploy-windows-server/
 https://docs.microsoft.com/en-us/learn/modules/select-windows-server-editions-servicing-options-activation/
 
 ------------------
+
+https://azure.microsoft.com/de-de/campaigns/windows-server/
+
+https://docs.microsoft.com/en-us/windows-server/
