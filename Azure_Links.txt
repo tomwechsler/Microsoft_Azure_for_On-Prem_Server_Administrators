@@ -28,3 +28,5 @@ https://docs.microsoft.com/en-us/azure/azure-arc/servers/overview
 https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/scenarios/hybrid/
 
 https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/scenarios/hybrid/toolchain
+
+https://azure.microsoft.com/de-de/overview/cloud-computing-dictionary/
