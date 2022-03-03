@@ -1,0 +1,9 @@
+Get-ADGroupMember "Domain Admins" | Format-Table Name
+
+Get-ADGroupMember -Identity "Enterprise Admins" -Recursive
+
+Get-ADGroupMember -Identity Administrators
+
+Get-ADPrincipalGroupMembership Administrator | Format-Table Name
+
+Get-ADUser -Filter 'memberof -recursivematch "cn=Domain Admins,cn=users,dc=prime,dc=pri"' | Format-Table Name
