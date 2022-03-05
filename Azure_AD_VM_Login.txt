@@ -1,0 +1,6 @@
+dsregcmd /status
+
+net localgroup "remote desktop users" /add "AzureAD\tim.godin@tomwechsler.ch"
+
+enablecredsspsupport:i:0
+authentication level:i:2
