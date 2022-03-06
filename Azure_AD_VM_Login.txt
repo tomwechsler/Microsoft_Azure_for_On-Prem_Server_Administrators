@@ -1,6 +1,8 @@
 dsregcmd /status
 
+#Add the account to the remote desktop users
 net localgroup "remote desktop users" /add "AzureAD\tim.godin@tomwechsler.ch"
 
+#Edit the RDP file and add the following lines:
 enablecredsspsupport:i:0
 authentication level:i:2
