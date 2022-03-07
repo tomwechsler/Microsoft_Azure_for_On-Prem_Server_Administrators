@@ -7,7 +7,7 @@ New-ADOrganizationalUnit CFO
 #And one new group
 New-ADGroup -Name "Executives" `
 -GroupScope Universal `
--Description "Executives von tomrocks.local" `
+-Description "Executives from tomrocks.local" `
 -GroupCategory "Security" `
 -Path "OU=CFO,DC=corp,DC=int" `
 -SAMAccountName "Executives" `
